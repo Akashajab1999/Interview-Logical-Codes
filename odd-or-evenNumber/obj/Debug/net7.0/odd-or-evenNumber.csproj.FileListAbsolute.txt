@@ -1,0 +1,15 @@
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.csproj.AssemblyReference.cache
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.AssemblyInfoInputs.cache
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.AssemblyInfo.cs
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.csproj.CoreCompileInputs.cache
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\bin\Debug\net7.0\odd-or-evenNumber.exe
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\bin\Debug\net7.0\odd-or-evenNumber.deps.json
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\bin\Debug\net7.0\odd-or-evenNumber.runtimeconfig.json
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\bin\Debug\net7.0\odd-or-evenNumber.dll
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\bin\Debug\net7.0\odd-or-evenNumber.pdb
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.dll
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\refint\odd-or-evenNumber.dll
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.pdb
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\odd-or-evenNumber.genruntimeconfig.cache
+C:\InterviewPractice\Interview-Logical-Codes\odd-or-evenNumber\obj\Debug\net7.0\ref\odd-or-evenNumber.dll
