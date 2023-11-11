@@ -1,5 +1,5 @@
 ﻿
-using System.Runtime.InteropServices;
+
 
 Console.WriteLine("Enter your number :");
 

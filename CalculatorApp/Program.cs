@@ -1,12 +1,12 @@
 ﻿Console.WriteLine("Enter Your Number:");
-int number1=int.Parse(Console.ReadLine());
+float number1=float.Parse(Console.ReadLine());
 
 Console.WriteLine("Enter Your Operator:");
 char op=char.Parse(Console.ReadLine());
 
 Console.WriteLine("Enter Your Number:");
-int number2=int.Parse(Console.ReadLine());
-double result=0;
+float number2=float.Parse(Console.ReadLine());
+float result=0;
 switch(op){
     case '+':
     result= number1 + number2;
