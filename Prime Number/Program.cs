@@ -14,14 +14,27 @@
     return status;
 }
 
- Console.WriteLine("Enter your Number :");
+//  Console.WriteLine("Enter your Number :");
+//  int number =int.Parse(Console.ReadLine());
+//  if(IsPrime(number)){
+//     Console.WriteLine("Given Number is Prime Number");
+//  }
+
+//  else{
+//     Console.WriteLine("Not prime number");
+//  }
+
+
+// prime number within range
+
+Console.WriteLine("Enter your first Number :");
  int number =int.Parse(Console.ReadLine());
- if(IsPrime(number)){
-    Console.WriteLine("Given Number is Prime Number");
+
+ Console.WriteLine("Enter your last  Number :");
+ int number2 =int.Parse(Console.ReadLine());
+for(int i=number;i<=number2;i++){
+
+     if(IsPrime(i)){
+    Console.WriteLine(i);
  }
-
- else{
-    Console.WriteLine("Not prime number");
- }
-
-
+}
